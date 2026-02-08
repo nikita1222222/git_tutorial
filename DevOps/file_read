@@ -1,0 +1,11 @@
+#Read from a File
+#We used open in read mode and file.read to read and print to display
+
+# Opened file in read mode
+file = open("text.txt", 'r')
+
+# Reading content in file
+data = file.read()
+
+# Printed file content
+print(data)
