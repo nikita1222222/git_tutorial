@@ -1,0 +1,8 @@
+4 main types of databases
+
+1 Relational DB/ SQL DB------tables ..rows..columns  (mysql, postgre. oracle, sql servers)
+2 NoSQL / Document DB ---- collections ...documents it is bunch of JSON files ( MongoDB, CosMos)
+3 Graph DB  --.. nodes .. edges (Neo4G) 
+4 key-value DB....key-value (Redis)
+
+5. Blob Storage  file like structure amazon s3, google drives
